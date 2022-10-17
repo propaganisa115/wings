@@ -1,0 +1,63 @@
+body {
+    margin:0;
+    padding:0;
+    background: #1c1c1c;
+  }
+  
+  h1{
+    font-family: Sans-serif;
+    color: #ffffff;
+    padding: 50px;
+    margin-top: 0;
+  }
+  
+  h3{
+    font-family: Sans-serif;
+    color: #ebebeb;
+  }
+  
+  #login{
+    max-width: 300px;
+    margin:30px auto;
+    background: #f9f9f9;
+    outline: 5px solid #0864c1;
+  }
+  
+  #login h3{
+    text-align: center;
+    padding: 20px 20px;
+    color:black;
+  }
+  fieldset{
+    margin:0;
+    border:none;
+  }
+  
+  form{
+    margin: 0;
+    padding: 0;
+  }
+  
+  input[type="text"],
+  input[type="username"]{
+    width:85%;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  input[type="password"],
+  input[type="password"]{
+    width: 232px;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  input[type="submit"],
+  input[type="submit"]{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    border: none;
+    background: #35a8f8;
+    color: #ffffff;
+  }
